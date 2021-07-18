@@ -13,7 +13,7 @@
 #
 # Whitelist by ch3st & plonkNeT
 #
-# Last Edit: 18/07/2021 - 13:18
+# Last Edit: 18/07/2021 - 13:43
 #
 #
 ###########################################################################
@@ -191,6 +191,30 @@
 
 #### Wikipedia
 @@||wikipedia.org^$important
+#### Gravatar
+@@||gravatar.com^$important
+#### TheTVDB
+@@||thetvdb.com^$important
+#### TheMovieDB
+@@||themoviedb.com^$important
+#### CHTBL
+@@||chtbl.com^$important
+#### Placehold
+@@||placehold.it^$important
+@@||placeholdit.imgix.net^$important
+
+###########################################################################
+#                                  News                                   #
+###########################################################################
+
+####Bild.de
+@@||www.asadcdn.com^$important
+@@||code.bildstatic.de^$important
+@@||de.ioam.de^$important
+@@||json.bild.de^$important
+@@||script.ioam.de^$important
+@@||tags.tiqcdn.com^$important
+@@||tagger.opecloud.com^$important
 
 ###########################################################################
 #                           Streaming Services                            #
@@ -271,6 +295,16 @@
 @@||tvdb2.plex.tv^$important
 @@||tvthemes.plexapp.com^$important
 
+####Direct TV
+@@||directvnow.com^$important
+@@||directvapplications.hb.omtrdc.net^$important
+@@||s.zkcdn.net js.maxmind.com^$important
+
+####ESPN
+@@||fpdownload.adobe.com^$important
+@@||entitlement.auth.adobe.com^$important
+@@||livepassdl.conviva.com^$important
+
 ###########################################################################
 #                              Social Media                               #
 ###########################################################################
@@ -318,3 +352,72 @@
 @@||scontent-ort2-1.xx.fbcdn.net^$important
 @@||edge-chat.facebook.com^$important
 @@||scontent-mia3-1.xx.fbcdn.net^$important
+
+###########################################################################
+#                             Cloud Services                              #
+###########################################################################
+
+#### Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
+
+###########################################################################
+#                          Desktop Applications                           #
+###########################################################################
+
+####nVidia GeForce-Experience
+@@||gfwsl.geforce.com^$important
+####Canon Printers
+@@||gdlp01.c-wss.com^$important
+
+
+###########################################################################
+#                         Depencies & Misc Stuff                          #
+###########################################################################
+
+@@||widget-cdn.rpxnow.com^$important
+@@||s.marketwatch.com^$important
+@@||imagesak.secureserver.net^$important
+@@||delivery.vidible.tv^$important
+@@||img.vidible.tv videos.vidible.tv^$important
+@@||edge.api.brightcove.com^$important
+@@||cdn.vidible.tv^$important
+@@||v.w-x.co^$important
+@@||appspot-preview.l.google.com^$important
+@@||79423.analytics.edgekey.net^$important
+@@||assets.adobedtm.com^$important
+@@||nexus.ensighten.com^$important
+@@||tracking-protection.cdn.mozilla.net^$important
+@@||h-sdk.online-metrix.net^$important
+@@||p11.techlab-cdn.com^$important
+@@||logs.juspay.in^$important
+@@||appboy-images.com rest.iad-03.braze.com^$important
+@@||mobileandroidapi.punchh.com^$important
+@@||biggusdickus.plonknet.com^$important
+@@||postila.plonknet.com^$important
+@@||wolke.plonknet.com^$important
+@@||www.plonknet.com^$important
+@@||uranus.plonknet.com^$important
+@@||gaia.plonknet.com^$important
+@@||discord.plonknet.com^$important
+@@||lasis.tschuggmatik.info^$important
+@@||lbuntis.tschuggmatik.info^$important
+@@||schule.tschuggmatik.info^$important
+@@||untis.tschuggmatik.info^$important
+@@||abp.oisd.nl^$important
+@@||dbl.oisd.nl^$important
+
+###########################################################################
+#                                  Games                                  #
+###########################################################################
+
+####Rockstar Games - GTA V
+@@||prod.telemetry.ros.rockstargames.com^$important
+####Epic Gamestore
+@@||tracking.epicgames.com^$important
+####Origin Cloud Save Sync
+@@||cloudsync-prod.s3.amazonaws.com^$important
+####Playstation 5 Trophies and last played Games
+@@||telemetry-console.api.playstation.com^$important

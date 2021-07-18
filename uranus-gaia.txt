@@ -1,0 +1,87 @@
+#
+#           /$$                     /$$       /$$   /$$        /$$$$$$$$
+#          | $$                    | $$      | $$$ | $$       |__  $$__/
+#  /$$$$$$ | $$  /$$$$$$  /$$$$$$$ | $$   /$$| $$$$| $$  /$$$$$$ | $$   
+# /$$__  $$| $$ /$$__  $$| $$__  $$| $$  /$$/| $$ $$ $$ /$$__  $$| $$   
+#| $$  \ $$| $$| $$  \ $$| $$  \ $$| $$$$$$/ | $$  $$$$| $$$$$$$$| $$   
+#| $$  | $$| $$| $$  | $$| $$  | $$| $$_  $$ | $$\  $$$| $$_____/| $$   
+#| $$$$$$$/| $$|  $$$$$$/| $$  | $$| $$ \  $$| $$ \  $$|  $$$$$$$| $$   
+#| $$____/ |__/ \______/ |__/  |__/|__/  \__/|__/  \__/ \_______/|__/   
+#| $$                                                                   
+#| $$                                                                   
+#|__/                                                                   
+#
+# Whitelist by ch3st & plonkNeT
+#
+# Last Edit: 18/07/2021 - 12:28
+#
+#
+###########################################################################
+#### Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+#### Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+#### Wikipedia
+@@||wikipedia.org^$important
+#### Microsoft
+@@||xbox.ipv6.microsoft.com^$important
+@@||xboxexperiencesprod.experimentation.xboxlive.com^$important
+@@||xflight.xboxlive.com^$important
+@@||xkms.xboxlive.com^$important
+@@||xsts.auth.xboxlive.com^$important
+@@||ui.skype.com^$important
+@@||title.auth.xboxlive.com^$important
+@@||title.mgt.xboxlive.com^$important
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
+@@||t0.ssl.ak.tiles.virtualearth.net^$important
+@@||win10.ipv6.microsoft.com^$important
+@@||sharepoint.com^$important
+@@||pricelist.skype.com^$important
+@@||office.com^$important
+@@||office.net^$important
+@@||office365.com^$important
+@@||officeclient.microsoft.com^$important
+@@||notify.xboxlive.com^$important
+@@||nexusrules.officeapps.live.com^$important
+@@||microsoftonline.com^$important
+@@||licensing.xboxlive.com^$important
+@@||live.com^$important
+@@||msftncsi.com^$important
+@@||i.s-microsoft.com^$important
+@@||help.ui.xboxlive.com^$important
+@@||c.s-microsoft.com^$important
+@@||apps.skype.com^$important
+@@||attestation.xboxlive.com^$important
+@@||cert.mgt.xboxlive.com^$important
+@@||clientconfig.passport.net^$important
+@@||ctldl.windowsupdate.com^$important
+@@||dev.virtualearth.net^$important
+@@||device.auth.xboxlive.com^$important
+@@||ecn.dev.virtualearth.net^$important
+@@||def-vef.xboxlive.com^$important
+@@||eds.xboxlive.com^$important
+@@||geo-prod.do.dsp.mp.microsoft.com^$important
+@@||displaycatalog.mp.microsoft.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||1drv.com^$important
+@@||aspnetcdn.com^$important
+#### Netflix
+@@||api-global.netflix.com^$important
+@@||ichnaea.netflix.com^$important
+@@||appboot.netflix.com^$important
+@@||secure.netflix.com^$important
+# Samsung TV network issue
+@@||cdn.samsungcloudsolution.com^$important
+#### Spotify
+@@||open.spotify.com^$important
+@@||mobile-ap.spotify.com^$important
+@@||apresolve.spotify.com^$important
+@@||upgrade.scdn.com^$important
+@@||market.spotify.com^$important
+@@||spclient.wg.spotify.com^$important
+@@||ap.spotify.com^$important
+@@||audio-ake.spotify.com.edgesuite.net^$important
+@@||audio4-ak.spotify.com.edgesuite.net^$important

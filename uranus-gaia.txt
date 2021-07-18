@@ -13,12 +13,15 @@
 #
 # Whitelist by ch3st & plonkNeT
 #
-# Last Edit: 18/07/2021 - 13:43
+# Last Edit: 18/07/2021 - 14:02
 #
 #
 ###########################################################################
 #                    IT, Developing, Desktop & Server                     #
 ###########################################################################
+
+####No-IP.com
+@@||no-ip.com^$important
 
 #### Github
 @@||github.com^$important
@@ -185,23 +188,152 @@
 @@||clients3.google.com^$important
 @@||connectivitycheck.gstatic.com^$important
 
+####Optimizely
+@@||cdn.optimizely.com^$important
+@@||cdn2.optimizely.com^$important
+@@||cdn3.optimizely.com^$important
+
+####Akamai Technologies
+@@||akamaihd.net^$important
+@@||akamaitechnologies.com^$important
+@@||akamaized.net^$important
+@@||widget-cdn.rpxnow.com^$important
+@@||akamai.net^$important
+@@||akadns.net^$important
+
 ###########################################################################
 #                           Important Websites                            #
 ###########################################################################
 
 #### Wikipedia
 @@||wikipedia.org^$important
+
 #### Gravatar
 @@||gravatar.com^$important
+
 #### TheTVDB
 @@||thetvdb.com^$important
+
 #### TheMovieDB
 @@||themoviedb.com^$important
+
 #### CHTBL
 @@||chtbl.com^$important
+
 #### Placehold
 @@||placehold.it^$important
 @@||placeholdit.imgix.net^$important
+
+#### Ipify.org
+@@||api.ipify.org^$important
+
+#### Rlje.net VOD
+@@||api.rlje.net^$important
+
+#### Buffer CDN 
+@@||bufferapp.com^$important
+
+#### Embedly.com
+@@||cdn.embedly.com^$important
+
+#### Dataplicity.com
+@@||dataplicity.com^$important
+
+#### Drift.com
+@@||drift.com^$important
+@@||driftt.com^$important
+
+#### Giphy.com
+@@||giphy.com^$important
+
+#### Gravatar Image
+@@||gravatar.com^$important
+
+#### Ted.com
+@@||hls.ted.com^$important
+@@||app-api.ted.com^$important
+@@||tedcdn.com^$important
+
+#### Vidible Video Platform
+@@||img.vidible.tv^$important
+@@||cdn.vidible.tv^$important
+@@||delivery.vidible.tv^$important
+@@||videos.vidible.tv^$important
+
+#### ImgIX
+@@||imgix.net^$important
+
+#### XKCD
+@@||imgs.xkcd.com^$important
+
+####Bitly URL Shortener
+@@||j.mp^$important
+
+#### Jquery
+@@||jquery.com^$important
+
+#### Jsdelivr.net Open Source CDN
+@@||jsdelivr.net^$important
+
+#### Malwarebytes Anti-Malware
+@@||keystone.mwbsys.com^$important
+
+#### Aliexpress.com
+@@||login.aliexpress.com^$important
+
+#### Adswizz sponsor clips before several podcasts
+@@||npr-news.streaming.adswizz.com^$important
+
+#### CBS Television Stream
+@@||cbsi.com^$important
+@@||cbsinteractive.hb.omtrdc.net^$important
+@@||s0.2mdn.net^$important
+
+####Audioscrobbler.com
+@@||ws.audioscrobbler.com^$important
+
+#### Pinterest
+@@||pinterest.com^$important
+
+#### Brightcove Player
+@@||brightcove.net^$important
+@@||secure.brightcove.com^$important
+@@||edge.api.brightcove.com^$important
+
+#### Cloudinary Upload Platform
+@@||res.cloudinary.com^$important
+
+#### Shopify.com eCommerce Software
+@@||v.shopify.com^$important
+@@||s.shopify.com^$important
+
+#### Wordpress
+@@||wp.com^$important
+@@||wordpress.com^$important
+
+#### Avangate Shop
+@@||secure.avangate.com^$important
+
+#### Surveymonkey
+@@||secure.surveymonkey.com^$important
+
+#### JW Player
+@@||ssl.p.jwpcdn.com^$important
+
+#### Tawk Live Chat
+@@||tawk.to^$important
+
+#### Themoviedb.com
+@@||themoviedb.com^$important
+
+#### Thetvdb.com
+@@||thetvdb.com^$important
+
+#### Tinyurl Shortener
+@@||tinyurl.com^$important
+
+#### Libsyn Podcast Hosting
+@@||traffic.libsyn.com^$important
 
 ###########################################################################
 #                                  News                                   #
@@ -305,12 +437,27 @@
 @@||entitlement.auth.adobe.com^$important
 @@||livepassdl.conviva.com^$important
 
+####Joyn
+@@||yospace.com^$important
+
+#### Sonarr TV Soft
+@@||apt.sonarr.tv^$important
+@@||download.sonarr.tv^$important
+@@||forums.sonarr.tv^$important
+@@||services.sonarr.tv^$important
+@@||skyhook.sonarr.tv^$important
+
 ###########################################################################
 #                              Social Media                               #
 ###########################################################################
 
 #### Reddit
 @@||reddit.com^$important
+
+####Twitter
+@@||twimg.com^$important
+@@||twitter.com^$important
+@@||t.co^$important
 
 #### Instagram
 @@||cdninstagram.com^$important

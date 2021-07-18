@@ -348,6 +348,10 @@
 @@||tags.tiqcdn.com^$important
 @@||tagger.opecloud.com^$important
 
+####Spiegel.de
+@@||sni.cdn.www.spiegel.de.c.footprint.net^$important
+@@||spiegel.de^$important
+
 ###########################################################################
 #                           Streaming Services                            #
 ###########################################################################
@@ -440,12 +444,17 @@
 ####Joyn
 @@||yospace.com^$important
 
-#### Sonarr TV Soft
+####Sonarr TV Soft
 @@||apt.sonarr.tv^$important
 @@||download.sonarr.tv^$important
 @@||forums.sonarr.tv^$important
 @@||services.sonarr.tv^$important
 @@||skyhook.sonarr.tv^$important
+
+####ARD German Television
+@@||image.ard.de^$important
+@@||image-ard-de-cddc.at-o.net^$important
+@@||daserste.de^$important
 
 ###########################################################################
 #                              Social Media                               #
@@ -516,9 +525,16 @@
 
 ####nVidia GeForce-Experience
 @@||gfwsl.geforce.com^$important
+
 ####Canon Printers
 @@||gdlp01.c-wss.com^$important
 
+####Sonos
+@@||msmetrics.ws.sonos.com^$important
+
+####Weather
+@@||worldweather.wmo.int^$important
+@@||yr.no^$important
 
 ###########################################################################
 #                         Depencies & Misc Stuff                          #
@@ -537,6 +553,7 @@
 @@||assets.adobedtm.com^$important
 @@||nexus.ensighten.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
+@@||detectportal.firefox.com^$important
 @@||h-sdk.online-metrix.net^$important
 @@||p11.techlab-cdn.com^$important
 @@||logs.juspay.in^$important
@@ -562,9 +579,12 @@
 
 ####Rockstar Games - GTA V
 @@||prod.telemetry.ros.rockstargames.com^$important
+
 ####Epic Gamestore
 @@||tracking.epicgames.com^$important
+
 ####Origin Cloud Save Sync
 @@||cloudsync-prod.s3.amazonaws.com^$important
+
 ####Playstation 5 Trophies and last played Games
 @@||telemetry-console.api.playstation.com^$important

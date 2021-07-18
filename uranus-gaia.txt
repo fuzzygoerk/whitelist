@@ -335,6 +335,11 @@
 #### Libsyn Podcast Hosting
 @@||traffic.libsyn.com^$important
 
+#### HDc
+@@||a.hdcenter.cc^$important
+@@||hdcenter.cc^$important
+@@||hdc.bz^$important
+
 ###########################################################################
 #                                  News                                   #
 ###########################################################################

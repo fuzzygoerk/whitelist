@@ -85,3 +85,46 @@
 @@||ap.spotify.com^$important
 @@||audio-ake.spotify.com.edgesuite.net^$important
 @@||audio4-ak.spotify.com.edgesuite.net^$important
+#### Apple
+@@||gdmf.apple.com.akadns.net^$important
+@@||apple.com^$important
+@@||icloud.com^$important
+@@||itunes.com^$important
+@@||mzstatic.com^$important
+@@||apple-dns.net^$important
+@@||cdn-apple.com^$important
+@@||iphone-ld.origin-apple.com.akadns.net^$important
+@@||ax.phobos.apple.com.edgesuite.net^$important
+@@||init-p01md-lb.push-apple.com.akadns.net^$important
+@@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+@@||np-edge-cdn.itunes-apple.com.akadns.net^$important
+@@||iadsdk.apple.com.akadns.net^$important
+@@||play.itunes.apple.com.edgesuite.net^$important
+#### Ama CDN & Prime Video
+@@||eu.api.amazonvideo.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||fls-eu.amazon.com^$important
+@@||fls-na.amazon.com^$important
+@@||cloudfront.net^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||images-amazon.com^$important
+@@||amazonaws.com^$important
+#### EFF Cerbot / Lets Encrypt
+@@||letsencrypt.org^$important
+#### Disney+
+@@||cdn.registerdisney.go.com^$important
+@@||dssott.com^$important
+@@||disneyplus.com^$important
+@@||disney-plus.net^$important
+@@||cws.conviva.com^$important
+@@||disneyplus.bn5x.net^$important
+@@||disney-portal.my.onetrust.com^$important
+@@||bamgrid.com^$important
+@@||disneyplus.com.ssl.sc.omtrdc.net^$important
+@@||cws-sjc2.conviva.com^$important
+@@||cws-iad1.conviva.com^$important
+@@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
+@@||disney.demdex.net^$important
+#### Reddit
+# Reddit
+@@||reddit.com^$important

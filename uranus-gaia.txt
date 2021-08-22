@@ -540,6 +540,7 @@
 ####Weather
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
+@@||www.greinwalden.info^$important
 
 ###########################################################################
 #                         Depencies & Misc Stuff                          #

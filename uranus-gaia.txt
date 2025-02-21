@@ -259,6 +259,7 @@
 @@||cdn.vidible.tv^$important
 @@||delivery.vidible.tv^$important
 @@||videos.vidible.tv^$important
+@@||gupax.io^important
 
 #### ImgIX
 @@||imgix.net^$important
